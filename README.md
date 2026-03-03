@@ -250,7 +250,7 @@ If you find this survey or repository useful in your research, please cite our p
       <td style="white-space: nowrap;"><a href="https://doi.org/10.1016/j.jag.2025.104423">Paper</a></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/GeoSim-555555" alt="Venue" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025-blue" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"><br>Knowledge-Guided Large Language Models for Enhancing Agent-Based Wildfire Spatial Simulation</td>
+      <td><img src="https://img.shields.io/badge/GeoSIM-555555" alt="Venue" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025-blue" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"><br>Knowledge-Guided Large Language Models for Enhancing Agent-Based Wildfire Spatial Simulation</td>
       <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Emergency--Response-purple" alt="Application" height="20"></td>
       <td style="white-space: nowrap;"><a href="https://doi.org/10.1145/3764921.3770152">Paper</a><br><a href="https://www.mrlc.gov/data?f%5B0%5D=category%3ALand%20Cover&f%5B1%5D=year%3A2024https://www.arcgis.com/home/item.html?id=0383ba18906149e3bd2a0975a0afdb8ehttps://www.ncei.noaa.gov/access/search/data-search/global-hourly?pageNum=1&startDate=2024-06-01T00:00:00&endDate=2024-06-06T23:59:59&pageSize=10&bbox=38.299,-121.573,37.478,-120.919&place=County:1389https://en.wikipedia.org/wiki/Corral_Fire_(2024)">Dataset</a></td>
     </tr>
