@@ -46,17 +46,14 @@ If you find this survey or repository useful in your research, please cite our p
 
 ## 📚 Contents
 
-- [Papers](#papers)
-  - [Ecological Monitoring](#ecological-monitoring)
-  - [Emergency Response](#emergency-response)
-  - [Geological Exploration](#geological-exploration)
-  - [Marine Supervision](#marine-supervision)
-  - [Precision Agriculture](#precision-agriculture)
-  - [Urban Governance](#urban-governance)
-  - [Others](#others)
-- [Datasets & Benchmarks](#datasets--benchmarks)
-- [Challenges & Future Directions](#challenges--future-directions)
-- [Citation](#-citation)
+- [🔥 News](#-news)
+- [🎯 Evolution of Remote Sensing Intelligence](#-evolution-of-remote-sensing-intelligence)
+- [📚 Contents](#-contents)
+  - [Papers](#papers) — Ecological Monitoring · Emergency Response · Geological Exploration · Marine Supervision · Precision Agriculture · Urban Governance · Others
+  - [Datasets & Benchmarks](#datasets--benchmarks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [✉️ Contact](#️-contact)
+- [✨ Star History](#-star-history)
 
 | Badge | Meaning |
 |-------|---------|
