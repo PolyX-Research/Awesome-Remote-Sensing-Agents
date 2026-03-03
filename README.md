@@ -10,17 +10,9 @@
 [![Stars](https://img.shields.io/github/stars/PolyX-Research/awesome-remote-sensing-agent?style=flat-square&color=orange&logo=github)](https://github.com/PolyX-Research/awesome-remote-sensing-agent)
 [![Papers 100+](https://img.shields.io/badge/Papers-100%2B-blueviolet?style=flat-square)](https://github.com/PolyX-Research/awesome-remote-sensing-agent)
 
-**A curated collection of 100+ papers at the intersection of AI Agents and Remote Sensing** 🛰️🚀
+🛰️ **A curated collection of 100+ papers at the intersection of AI Agents and Remote Sensing** 🚀
 
 </div>
-
-> **AI Agents in Remote Sensing: A Survey** [[arXiv]](https://arxiv.org/pdf/xxx)
-> Jiaqi Tang `<sup>`\*,†,2`</sup>`, Yingying Yan `<sup>`\*,1`</sup>`, Qianzhou Wang `<sup>`\*,1`</sup>`, Yuyang Xia `<sup>`\*,1`</sup>`, Botong Geng `<sup>`\*,1`</sup>`, Jianmin Chen `<sup>`\*,1`</sup>`, Youyang Zhai `<sup>`1`</sup>`, Ke Ma `<sup>`3`</sup>`, Qingfeng He `<sup>`3`</sup>`, Weigeng Shao `<sup>`1`</sup>`, Yunjin Sun `<sup>`2`</sup>`, Junwei Dai `<sup>`1`</sup>`, Chuxi Chen `<sup>`2`</sup>`, Xiaogang Xu `<sup>`4`</sup>`, Kelu Yao `<sup>`5`</sup>`, Lei Zhang `<sup>`1`</sup>`, Wei Wei `<sup>`‡,1`</sup>`, Qifeng Chen `<sup>`‡,2`</sup>`, Antonio Plaza `<sup>`6`</sup>`, Yanning Zhang `<sup>`1`</sup>`
->
-> `<sup>`1`</sup>`Northwestern Polytechnical University, `<sup>`2`</sup>`The Hong Kong University of Science and Technology, `<sup>`3`</sup>`Tsinghua University, `<sup>`4`</sup>`The Chinese University of Hong Kong, `<sup>`5`</sup>`Zhejiang Lab, `<sup>`6`</sup>`University of Extremadura
->
-> \* Equal Contribution. † Project Leader. ‡ Corresponding Author.
-
 
 > [!IMPORTANT]
 > **We welcome community contributions to keep this list up-to-date!**
@@ -29,9 +21,6 @@
 > - 🏷️ Propose new or refined categories
 > - 🔗 Report broken links or outdated entries
 > - 💬 Reach out via [Contact](#️-contact) for any discussion
-
-
-## 📌 Citation
 
 If you find this survey or repository useful in your research, please cite our paper:
 
@@ -43,11 +32,6 @@ If you find this survey or repository useful in your research, please cite our p
   year={2025}
 }
 ```
-
-## 🤝 How to Contribute
-
-We encourage pull requests! Please follow the existing format, maintain chronological order within each category, and include paper/code links where available. You can also [contact us](#️-contact) directly.
-
 
 ## 🔥 News
 
@@ -770,6 +754,12 @@ Training and evaluating remote sensing agents requires resources that go beyond 
 | | [GIS Copilot](https://github.com/Teakinboyewa/SpatialAnalysisAgent) | Agent-assisted GIS decisions | 110 tasks |
 
 </details>
+
+
+## 🤝 How to Contribute
+
+We encourage pull requests! Please follow the existing format, maintain chronological order within each category, and include paper/code links where available. You can also [contact us](#️-contact) directly.
+
 
 ## 📄 License
 
