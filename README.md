@@ -43,13 +43,13 @@ If you find this survey or repository useful in your research, please cite our p
 
 ## 📚 Contents
 
-- [Papers](#papers) — Ecological Monitoring · Emergency Response · Geological Exploration · Marine Supervision · Precision Agriculture · Urban Governance · Others
-- [Datasets & Benchmarks](#datasets--benchmarks)
-- [How to Contribute](#-how-to-contribute)
-- [License](#-license)
-- [Acknowledgments](#-acknowledgments)
-- [Contact](#%EF%B8%8F-contact)
-- [Star History](#-star-history)
+- [🔥 News](#-news)
+- [📚 Contents](#-contents)
+  - [Papers](#papers) — Ecological Monitoring · Emergency Response · Geological Exploration · Marine Supervision · Precision Agriculture · Urban Governance · Others
+  - [Datasets & Benchmarks](#datasets--benchmarks)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [✉️ Contact](#️-contact)
+- [✨ Star History](#-star-history)
 
 | Badge | Meaning |
 |-------|---------|
