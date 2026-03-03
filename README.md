@@ -12,6 +12,10 @@
 
 🛰️ **A curated collection of 100+ papers at the intersection of AI Agents and Remote Sensing** 🚀
 
+
+<img src="images/roadmap.png" alt="Evolution of Remote Sensing Intelligence" style="display: inline-block; vertical-align: middle;" width="100%"/>
+
+
 </div>
 
 > [!IMPORTANT]
@@ -37,23 +41,15 @@ If you find this survey or repository useful in your research, please cite our p
 
 - **[2025.12.29]** 🎉 Initial release of the survey paper and this repository.
 
-## 🎯 Evolution of Remote Sensing Intelligence
-
-<div align="left">
-  <img src="images/roadmap.png" alt="Evolution of Remote Sensing Intelligence" style="display: inline-block; vertical-align: middle;" width="100%"/>
-</div>
-
-
 ## 📚 Contents
 
-- [🔥 News](#-news)
-- [🎯 Evolution of Remote Sensing Intelligence](#-evolution-of-remote-sensing-intelligence)
-- [📚 Contents](#-contents)
-  - [Papers](#papers) — Ecological Monitoring · Emergency Response · Geological Exploration · Marine Supervision · Precision Agriculture · Urban Governance · Others
-  - [Datasets & Benchmarks](#datasets--benchmarks)
-- [🤝 How to Contribute](#-how-to-contribute)
-- [✉️ Contact](#️-contact)
-- [✨ Star History](#-star-history)
+- [Papers](#papers) — Ecological Monitoring · Emergency Response · Geological Exploration · Marine Supervision · Precision Agriculture · Urban Governance · Others
+- [Datasets & Benchmarks](#datasets--benchmarks)
+- [How to Contribute](#-how-to-contribute)
+- [License](#-license)
+- [Acknowledgments](#-acknowledgments)
+- [Contact](#%EF%B8%8F-contact)
+- [Star History](#-star-history)
 
 | Badge | Meaning |
 |-------|---------|
