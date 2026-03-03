@@ -79,7 +79,7 @@ If you find this survey or repository useful in your research, please cite our p
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025.11-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/be-chen/REMSA"><img src="https://img.shields.io/github/stars/be-chen/REMSA.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing</td>
+      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style=" display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025.11-red" alt="Time" style=" display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/be-chen/REMSA"><img src="https://img.shields.io/github/stars/be-chen/REMSA.svg?style=social&label=Star" alt="Star" style=" display: inline-block; vertical-align: middle;"></a><br>REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing</td>
       <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Ecological--Monitoring-purple" alt="Application" height="20"></td>
       <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2511.17442">Paper</a><br><a href="https://github.com/be-chen/REMSA">GitHub</a></td>
     </tr>
