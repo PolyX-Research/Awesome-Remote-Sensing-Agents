@@ -54,7 +54,7 @@ If you find this survey or repository useful in your research, please cite our p
 | Badge | Meaning |
 |-------|---------|
 | ![arXiv](https://img.shields.io/badge/arXiv-red) | Preprint on arXiv |
-| ![Published](https://img.shields.io/badge/Published-blue) | Published at a conference or journal |.
+| ![Published](https://img.shields.io/badge/Published-blue) | Published at a conference or journal |
 | ![GitHub](https://img.shields.io/badge/GitHub-white) | Code repository available |
 | ![Application](https://img.shields.io/badge/Application-purple) | Application domain |
 | ![Category](https://img.shields.io/badge/Category-green) | Agent design category (planning, memory, tool use, etc.) |
