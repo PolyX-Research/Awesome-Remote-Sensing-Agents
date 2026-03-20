@@ -3,14 +3,11 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![arXiv](https://img.shields.io/badge/arXiv-xxxx.xxxxx-b31b1b?style=flat-square&logo=arxiv&logoColor=white)](https://arxiv.org/abs/xxxx.xxxxx)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](http://makeapullrequest.com)
-[![Last Commit](https://img.shields.io/github/last-commit/PolyX-Research/awesome-remote-sensing-agent?style=flat-square&color=blue)](https://github.com/PolyX-Research/awesome-remote-sensing-agent)
-[![Stars](https://img.shields.io/github/stars/PolyX-Research/awesome-remote-sensing-agent?style=flat-square&color=orange&logo=github)](https://github.com/PolyX-Research/awesome-remote-sensing-agent)
-[![Papers 100+](https://img.shields.io/badge/Papers-100%2B-blueviolet?style=flat-square)](https://github.com/PolyX-Research/awesome-remote-sensing-agent)
+[![Papers 100+](https://img.shields.io/badge/Papers-100%2B-blueviolet?style=flat-square)](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents)
 
-🛰️ **A curated collection of 100+ papers at the intersection of AI Agents and Remote Sensing** 🚀
+🛰️ **A curated collection of 100+ papers at the intersection of Intelligent Remote Sensing Agents** 🚀
 
 
 <img src="images/roadmap.png" alt="Evolution of Remote Sensing Intelligence" style="display: inline-block; vertical-align: middle;" width="100%"/>
@@ -21,7 +18,7 @@
 > [!IMPORTANT]
 > **We welcome community contributions to keep this list up-to-date!**
 >
-> - 📝 Add missing papers via [Pull Request](https://github.com/PolyX-Research/awesome-remote-sensing-agent/pulls)
+> - 📝 Add missing papers via [Pull Request](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents/pulls)
 > - 🏷️ Propose new or refined categories
 > - 🔗 Report broken links or outdated entries
 > - 💬 Reach out via [Contact](#️-contact) for any discussion
@@ -29,17 +26,18 @@
 If you find this survey or repository useful in your research, please cite our paper:
 
 ```bibtex
-@article{tang2025aiagent,
-  title={AI Agents in Remote Sensing: A Survey},
-  author={Tang, Jiaqi and Yan, Yingying and Wang, Qianzhou and Xia, Yuyang and Geng, Botong and Chen, Jianmin and Zhai, Youyang and Ma, Ke and He, Qingfeng and Shao, Weigeng and Sun, Yunjin and Dai, Junwei and Chen, Chuxi and Xu, Xiaogang and Yao, Kelu and Zhang, Lei and Wei, Wei and Chen, Qifeng and Plaza, Antonio and Zhang, Yanning},
-  journal={arXiv preprint arXiv:xxx},
-  year={2025}
+@article{tang2025intelligent,
+  title={Intelligent Remote Sensing Agents: A Survey},
+  author={Tang, Jiaqi and Yan, Yingying and Wang, Qianzhou and Xia, Yuyang and Geng, Botong and Chen, Jianmin and Ma, Ke and Zhai, Youyang and He, Qingfeng and Shao, Weigeng and Sun, Yunjin and Dai, Junwei and Chen, Chuxi and Xu, Xiaogang and Yao, Kelu and Zhang, Lei and Wei, Wei and Chen, Qifeng and Plaza, Antonio and Zhang, Yanning},
+  year={2026},
+  url={https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents}
 }
 ```
 
 ## 🔥 News
 
-- **[2025.12.29]** 🎉 Initial release of the survey paper and this repository.
+- **[2026.03.20]** 🎉 The survey is now available on [GitHub](paper/preprint.pdf).
+- **[2026.03.20]** 🎉 We release the [Awesome-Remote-Sensing-Agents](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents) repository.
 
 ## 📚 Contents
 
@@ -48,8 +46,9 @@ If you find this survey or repository useful in your research, please cite our p
   - [Papers](#papers) — Ecological Monitoring · Emergency Response · Geological Exploration · Marine Supervision · Precision Agriculture · Urban Governance · Others
   - [Datasets & Benchmarks](#datasets--benchmarks)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [✉️ Contact](#️-contact)
+- [📄 License](#-license)
 - [✨ Star History](#-star-history)
+- [✉️ Contact](#️-contact)
 
 | Badge | Meaning |
 |-------|---------|
@@ -745,32 +744,28 @@ Training and evaluating remote sensing agents requires resources that go beyond 
 | | [GeoBenchX](https://github.com/Solirinai/GeoBenchX) | Geospatial reasoning & execution | 202 tasks |
 | | [ShapefileGPT](https://arxiv.org/abs/2410.12376) | Geospatial workflow orchestration | 42 tasks |
 | | [GIS Copilot](https://github.com/Teakinboyewa/SpatialAnalysisAgent) | Agent-assisted GIS decisions | 110 tasks |
-
 </details>
-
-
-## 🤝 How to Contribute
-
-We encourage pull requests! Please follow the existing format, maintain chronological order within each category, and include paper/code links where available. You can also [contact us](#️-contact) directly.
 
 
 ## 📄 License
 
-This project is released under the [MIT License](LICENSE).
+The curated list and associated code in this repository are licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material for non-commercial purposes with appropriate attribution.
 
+The survey paper (`paper/`) is **All Rights Reserved** — copyright belongs to the authors. You may read and cite the paper, but redistribution or modification of the paper itself is not permitted without explicit written permission.
 
-## 🙏 Acknowledgments
-
-The structure and style of this repository draw inspiration from several excellent awesome-lists, including [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models), [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/), and [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering). We thank the open-source community for making collaborative curation possible.
-
-## ✉️ Contact
-
-Questions, suggestions, or collaboration ideas are always welcome!
-
-✉️ Email: [jtang092@connect.ust.hk](mailto:jtang092@connect.ust.hk)
 
 ## ✨ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PolyX-Research/awesome-remote-sensing-agent&type=date&legend=top-left)](https://www.star-history.com/#PolyX-Research/awesome-remote-sensing-agent&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=PolyX-Research/Awesome-Remote-Sensing-Agents&type=date&legend=top-left)](https://www.star-history.com/#PolyX-Research/Awesome-Remote-Sensing-Agents&type=date&legend=top-left)
 
-[**⬆ Back to top**](#awesome-ai-agent-in-remote-sensing)
+
+## ✉️ Contact
+
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out:
+
+- **Jiaqi Tang** (Project Lead): [jtang092@connect.ust.hk](mailto:jtang092@connect.ust.hk)
+- **Wei Wei** (Corresponding Author): [weiweinwpu@nwpu.edu.cn](mailto:weiweinwpu@nwpu.edu.cn)
+- **Qifeng Chen** (Corresponding Author): [cqf@ust.hk](mailto:cqf@ust.hk)
+
+
+[**⬆ Back to top**](#awesome-remote-sensing-agents)
