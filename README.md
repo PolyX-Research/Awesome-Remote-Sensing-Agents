@@ -295,6 +295,11 @@ If you find this survey or repository useful in your research, please cite our p
   </thead>
   <tbody>
     <tr>
+      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2026.01-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/AMAP-ML/Thinking-with-Map"><img src="https://img.shields.io/github/stars/AMAP-ML/Thinking-with-Map.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Geological--Exploration-purple" alt="Application" height="20"><br><img src="https://img.shields.io/badge/Open--Loop%20Planning-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/Execution%20via%20External%20Tools-green" alt="Type" height="20"><br></td>
+      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2601.05432">Paper</a><br><a href="https://github.com/AMAP-ML/Thinking-with-Map">GitHub</a></td>
+    </tr>
+    <tr>
       <td><img src="https://img.shields.io/badge/CVPR-555555" alt="Venue" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025-blue" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/microsoft/PEACE"><img src="https://img.shields.io/github/stars/microsoft/PEACE.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>PEACE: Empowering Geologic Map Holistic Understanding with MLLMs</td>
       <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Geological--Exploration-purple" alt="Application" height="20"><br><img src="https://img.shields.io/badge/Internal%20Memory-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/External%20Memory-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/Execution%20via%20External%20Tools-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/Centralized%20Collaboration-green" alt="Type" height="20"></td>
       <td style="white-space: nowrap;"><a href="https://doi.org/10.1109/CVPR52734.2025.00369">Paper</a><br><a href="https://github.com/microsoft/PEACE">GitHub</a></td>
@@ -737,6 +742,7 @@ Training and evaluating remote sensing agents requires resources that go beyond 
 | | [UrbanLLaVA](https://github.com/tsinghua-fib-lab/UrbanLLaVA) | Spatial reasoning | — |
 | | [EarthVQA](https://arxiv.org/abs/2312.12222) | Relational VQA | 1,809 images |
 | | [City-3DQA](https://arxiv.org/abs/2407.17398) | 3D city understanding | 61K pairs |
+| | [MapBench](https://github.com/AMAP-ML/Thinking-with-Map) | Geo-localization | 2,500 images |
 | **Decision-Making** | [AEOS-Bench](https://github.com/buaa-colalab/AEOSBench) | Constellation scheduling | 16,410 scenarios |
 | | [ThinkGeo](https://github.com/mbzuai-oryx/ThinkGeo) | Tool-augmented tasks | 486 tasks (1,773 steps) |
 | | [RoadMind](https://arxiv.org/abs/2509.19354) | Disaster response | 3 cities |
