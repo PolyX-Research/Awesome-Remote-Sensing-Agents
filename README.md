@@ -148,6 +148,11 @@ If you find this survey or repository useful in your research, please cite our p
       <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2403.20213">Paper</a><br><a href="https://github.com/opendatalab/H2RSVLM">GitHub</a></td>
     </tr>
     <tr>
+      <td><img src="https://img.shields.io/badge/AAAI-555555" alt="Venue" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025-blue" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/opendatalab/VHM"><img src="https://img.shields.io/github/stars/opendatalab/VHM.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Ecological--Monitoring-purple" alt="Application" height="20"></td>
+      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2403.20213">Paper</a><br><a href="https://github.com/opendatalab/VHM">GitHub</a></td>
+    </tr>
+    <tr>
       <td><img src="https://img.shields.io/badge/ECCV-555555" alt="Venue" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2024-blue" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/NJU-LHRS/LHRS-Bot"><img src="https://img.shields.io/github/stars/NJU-LHRS/LHRS-Bot.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>LHRS-Bot: Empowering Remote Sensing with VGI-Enhanced Large Multimodal Language Model</td>
       <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Ecological--Monitoring-purple" alt="Application" height="20"></td>
       <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2402.10549">Paper</a><br><a href="https://github.com/NJU-LHRS/LHRS-Bot">GitHub</a></td>
@@ -710,6 +715,8 @@ Training and evaluating remote sensing agents requires resources that go beyond 
 | | [RSICap](https://github.com/Lavender105/RSGPT) | 2.6K pairs | High-precision vision-language alignment |
 | | [UData](https://github.com/tsinghua-fib-lab/UrbanLLaVA) | 353K instances | Cross-modal urban reasoning |
 | | [EarthVQA](https://arxiv.org/abs/2312.12222) | 208K QA pairs | Relational VQA |
+| | [VersaD](https://github.com/opendatalab/VHM) | 1.4M pairs | Rich-content RS image-text captions for pretraining |
+| | [HnstD](https://github.com/opendatalab/VHM) | 44K instructions | Honest instruction dataset with factual and deceptive questions |
 | | [RS-VL3M](https://doi.org/10.48550/arXiv.2507.20776) | 3M pairs | Vision-language pretraining |
 | **Decision-Making** | [RS-Agent](https://github.com/IntelliSensing/RS-Agent) | 18 tasks | Expert-guided tool invocation |
 | | [RescueADI](https://arxiv.org/abs/2410.13384) | 13.4K interactions | Adaptive disaster response |
