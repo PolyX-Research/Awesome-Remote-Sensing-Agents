@@ -143,11 +143,6 @@ If you find this survey or repository useful in your research, please cite our p
       <td style="white-space: nowrap;"></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2024.00-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/opendatalab/H2RSVLM"><img src="https://img.shields.io/github/stars/opendatalab/H2RSVLM.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>H2RSVLM: Towards Helpful and Honest Remote Sensing Large Vision Language Model</td>
-      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Ecological--Monitoring-purple" alt="Application" height="20"></td>
-      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2403.20213">Paper</a><br><a href="https://github.com/opendatalab/H2RSVLM">GitHub</a></td>
-    </tr>
-    <tr>
       <td><img src="https://img.shields.io/badge/AAAI-555555" alt="Venue" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025-blue" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/opendatalab/VHM"><img src="https://img.shields.io/github/stars/opendatalab/VHM.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>VHM: Versatile and Honest Vision Language Model for Remote Sensing Image Analysis</td>
       <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Ecological--Monitoring-purple" alt="Application" height="20"></td>
       <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2403.20213">Paper</a><br><a href="https://github.com/opendatalab/VHM">GitHub</a></td>
