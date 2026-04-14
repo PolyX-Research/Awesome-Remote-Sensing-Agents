@@ -36,7 +36,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 ## 🔥 News
 
-- **[2026.04.15]** 🎉 The survey is now available on [ResearchGate](https://www.researchgate.net/publication/403817822_Intelligent_Remote_Sensing_Agents_A_Survey).
+- **[2026.04.15]** 🎉 Our survey is now available on [ResearchGate](https://www.researchgate.net/publication/403817822_Intelligent_Remote_Sensing_Agents_A_Survey).
 - **[2026.03.20]** 🎉 The survey is now available on [GitHub](paper/preprint.pdf).
 - **[2026.03.20]** 🎉 We release the [Awesome-Remote-Sensing-Agents](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents) repository.
 
