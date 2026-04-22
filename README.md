@@ -620,6 +620,11 @@ If you find this survey or repository useful in your research, please cite our p
       <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2511.17198">Paper</a><br><a href="https://earth-insights.github.io/EarthAgent">GitHub</a></td>
     </tr>
     <tr>
+      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025.09-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/opendatalab/Earth-Agent"><img src="https://img.shields.io/github/stars/opendatalab/Earth-Agent.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Earth%20Observation%20Analysis-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/ReAct%20Planning-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/MCP%20Framework-green" alt="Type" height="20"></td>
+      <td style="white-space: nowrap;"><a href="https://opendatalab.github.io/Earth-Agent/">Project</a><br><a href="https://arxiv.org/pdf/2509.23141">Paper</a><br><a href="https://github.com/opendatalab/Earth-Agent">GitHub</a><br><a href="https://huggingface.co/datasets/Sssunset/Earth-Bench">Dataset</a></td>
+    </tr>
+    <tr>
       <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025.08-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/dstamoulis/geo-olms"><img src="https://img.shields.io/github/stars/dstamoulis/geo-olms.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>GeoFlow: Agentic Workflow Automation for Geospatial Tasks</td>
       <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Centralized%20Collaboration-green" alt="Type" height="20"></td>
       <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2508.04719">Paper</a><br><a href="https://github.com/dstamoulis/geo-olms">GitHub</a><br><a href="https://arxiv.org/abs/2404.15500">Dataset</a></td>
@@ -753,6 +758,7 @@ Training and evaluating remote sensing agents requires resources that go beyond 
 | | [GeoBenchX](https://github.com/Solirinai/GeoBenchX) | Geospatial reasoning & execution | 202 tasks |
 | | [ShapefileGPT](https://arxiv.org/abs/2410.12376) | Geospatial workflow orchestration | 42 tasks |
 | | [GIS Copilot](https://github.com/Teakinboyewa/SpatialAnalysisAgent) | Agent-assisted GIS decisions | 110 tasks |
+| | [Earth Bench](https://opendatalab.github.io/Earth-Agent/) | Agent-based Earth Observation Analysis | 248 tasks |
 </details>
 
 
