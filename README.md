@@ -6,6 +6,8 @@
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey?style=flat-square)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](http://makeapullrequest.com)
 [![Papers 100+](https://img.shields.io/badge/Papers-100%2B-blueviolet?style=flat-square)](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents)
+[![GitHub stars](https://img.shields.io/github/stars/PolyX-Research/Awesome-Remote-Sensing-Agents?style=flat-square&logo=github&color=ffd700)](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/PolyX-Research/Awesome-Remote-Sensing-Agents?style=flat-square&color=blue)](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents/commits)
 
 🛰️ **A curated collection of 100+ papers at the intersection of Intelligent Remote Sensing Agents** 🚀
 
@@ -36,6 +38,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 ## 🔥 News
 
+- **[2026.06.05]** 🚀 Added the latest 2026 remote sensing agent works — [GeoMMAgent](https://arxiv.org/abs/2604.08896), [RemoteAgent](https://arxiv.org/abs/2604.07765), [OpenEarth-Agent](https://arxiv.org/abs/2603.22148), [OpenEarthAgent](https://arxiv.org/abs/2602.17665), and [GeoEvolver](https://arxiv.org/abs/2602.02559) — plus the new [OpenEarth-Bench](https://arxiv.org/abs/2603.22148) and [GeoMMBench](https://arxiv.org/abs/2604.08896) benchmarks.
 - **[2026.04.15]** 🎉 Our survey is now available on [ResearchGate](https://www.researchgate.net/publication/403817822_Intelligent_Remote_Sensing_Agents_A_Survey).
 - **[2026.03.20]** 🎉 The survey is now available on [GitHub](paper/preprint.pdf).
 - **[2026.03.20]** 🎉 We release the [Awesome-Remote-Sensing-Agents](https://github.com/PolyX-Research/Awesome-Remote-Sensing-Agents) repository.
@@ -44,7 +47,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 - [🔥 News](#-news)
 - [📚 Contents](#-contents)
-  - [Papers](#papers) — Ecological Monitoring · Emergency Response · Geological Exploration · Marine Supervision · Precision Agriculture · Urban Governance · Others
+  - [Papers](#papers) — 🌿 Ecological Monitoring · 🚨 Emergency Response · ⛏️ Geological Exploration · 🌊 Marine Supervision · 🌾 Precision Agriculture · 🏙️ Urban Governance · 🧩 Others
   - [Datasets & Benchmarks](#datasets--benchmarks)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [📄 License](#-license)
@@ -62,7 +65,7 @@ If you find this survey or repository useful in your research, please cite our p
 ### Papers
 
 <details open>
-<summary><strong>Ecological Monitoring</strong></summary>
+<summary><strong>🌿 Ecological Monitoring (21)</strong></summary>
 
 <table style="width: 100%;">
   <colgroup>
@@ -188,7 +191,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 </details>
 <details open>
-<summary><strong>Emergency Response</strong></summary>
+<summary><strong>🚨 Emergency Response (14)</strong></summary>
 
 <table style="width: 100%;">
   <colgroup>
@@ -279,7 +282,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 </details>
 <details open>
-<summary><strong>Geological Exploration</strong></summary>
+<summary><strong>⛏️ Geological Exploration (7)</strong></summary>
 
 <table style="width: 100%;">
   <colgroup>
@@ -335,7 +338,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 </details>
 <details open>
-<summary><strong>Marine Supervision</strong></summary>
+<summary><strong>🌊 Marine Supervision (5)</strong></summary>
 
 <table style="width: 100%;">
   <colgroup>
@@ -381,7 +384,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 </details>
 <details open>
-<summary><strong>Precision Agriculture</strong></summary>
+<summary><strong>🌾 Precision Agriculture (7)</strong></summary>
 
 <table style="width: 100%;">
   <colgroup>
@@ -437,7 +440,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 </details>
 <details open>
-<summary><strong>Urban Governance</strong></summary>
+<summary><strong>🏙️ Urban Governance (27)</strong></summary>
 
 <table style="width: 100%;">
   <colgroup>
@@ -593,7 +596,7 @@ If you find this survey or repository useful in your research, please cite our p
 
 </details>
 <details open>
-<summary><strong>Others</strong></summary>
+<summary><strong>🧩 Others (20)</strong></summary>
 
 <table style="width: 100%;">
   <colgroup>
@@ -609,6 +612,31 @@ If you find this survey or repository useful in your research, please cite our p
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2026.04-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"><br>GeoMMAgent: Toward Expert-Level Multimodal Intelligence in Geoscience and Remote Sensing</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Centralized%20Collaboration-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/Execution%20via%20External%20Tools-green" alt="Type" height="20"></td>
+      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2604.08896">Paper</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2026.04-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"><br>RemoteAgent: Bridging Vague Human Intents and Earth Observation with RL-based Agentic MLLMs</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Closed--Loop%20Planning-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/MCP%20Framework-green" alt="Type" height="20"></td>
+      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2604.07765">Paper</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2026.03-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"><br>OpenEarth-Agent: From Tool Calling to Tool Creation for Open-Environment Earth Observation</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Closed--Loop%20Planning-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/Execution%20via%20Programmatic%20Actions-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/External%20Memory-green" alt="Type" height="20"></td>
+      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2603.22148">Paper</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2026.02-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/mbzuai-oryx/OpenEarthAgent"><img src="https://img.shields.io/github/stars/mbzuai-oryx/OpenEarthAgent.svg?style=social&label=Star" alt="Star" style="display: inline-block; vertical-align: middle;"></a><br>OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Execution%20via%20External%20Tools-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/Internal%20Memory-green" alt="Type" height="20"></td>
+      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2602.17665">Paper</a><br><a href="https://github.com/mbzuai-oryx/OpenEarthAgent">GitHub</a></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2026.02-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"><br>GeoEvolver: Experience-Driven Multi-Agent Systems Are Training-free Context-aware Earth Observers</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Centralized%20Collaboration-green" alt="Type" height="20"><br><img src="https://img.shields.io/badge/External%20Memory-green" alt="Type" height="20"></td>
+      <td style="white-space: nowrap;"><a href="https://arxiv.org/abs/2602.02559">Paper</a></td>
+    </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025.11-red" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"><br>VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis</td>
       <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Closed--Loop%20Planning-green" alt="Type" height="20"></td>
@@ -694,7 +722,7 @@ If you find this survey or repository useful in your research, please cite our p
 Training and evaluating remote sensing agents requires resources that go beyond static image-label pairs. Agents must integrate visual perception with reasoning, planning, and tool execution. We organize datasets and benchmarks into three tiers: **Perception**, **Reasoning**, and **Decision-Making**.
 
 <details open>
-<summary><strong>Datasets</strong></summary>
+<summary><strong>🗂️ Datasets</strong></summary>
 
 | Category | Name | Size | Description |
 |----------|------|------|-------------|
@@ -731,7 +759,7 @@ Training and evaluating remote sensing agents requires resources that go beyond 
 </details>
 
 <details open>
-<summary><strong>Benchmarks</strong></summary>
+<summary><strong>📊 Benchmarks</strong></summary>
 
 | Category | Name | Feature | Scale |
 |----------|------|---------|-------|
@@ -751,6 +779,7 @@ Training and evaluating remote sensing agents requires resources that go beyond 
 | | [EarthVQA](https://arxiv.org/abs/2312.12222) | Relational VQA | 1,809 images |
 | | [City-3DQA](https://arxiv.org/abs/2407.17398) | 3D city understanding | 61K pairs |
 | | [MapBench](https://github.com/AMAP-ML/Thinking-with-Map) | Geo-localization | 2,500 images |
+| | [GeoMMBench](https://arxiv.org/abs/2604.08896) | Expert-level geoscience & RS reasoning | 1,016 questions |
 | **Decision-Making** | [AEOS-Bench](https://github.com/buaa-colalab/AEOSBench) | Constellation scheduling | 16,410 scenarios |
 | | [ThinkGeo](https://github.com/mbzuai-oryx/ThinkGeo) | Tool-augmented tasks | 486 tasks (1,773 steps) |
 | | [RoadMind](https://arxiv.org/abs/2509.19354) | Disaster response | 3 cities |
@@ -759,6 +788,7 @@ Training and evaluating remote sensing agents requires resources that go beyond 
 | | [ShapefileGPT](https://arxiv.org/abs/2410.12376) | Geospatial workflow orchestration | 42 tasks |
 | | [GIS Copilot](https://github.com/Teakinboyewa/SpatialAnalysisAgent) | Agent-assisted GIS decisions | 110 tasks |
 | | [Earth Bench](https://opendatalab.github.io/Earth-Agent/) | Agent-based Earth Observation Analysis | 248 tasks |
+| | [OpenEarth-Bench](https://arxiv.org/abs/2603.22148) | Open-environment full-pipeline EO | 596 cases / 7 domains |
 </details>
 
 
