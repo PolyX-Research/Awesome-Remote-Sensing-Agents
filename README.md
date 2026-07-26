@@ -65,7 +65,7 @@ If you find this survey or repository useful in your research, please cite our p
 ### Papers
 
 <details open>
-<summary><strong>🌿 Ecological Monitoring (21)</strong></summary>
+<summary><strong>🌿 Ecological Monitoring (22)</strong></summary>
 
 <table style="width: 100%;">
   <colgroup>
@@ -81,6 +81,11 @@ If you find this survey or repository useful in your research, please cite our p
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><img src="https://img.shields.io/badge/KDD-555555" alt="Venue" style="display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2026-blue" alt="Time" style="display: inline-block; vertical-align: middle; margin-left: -3px;"><br>PCA-OS: A Planetary Climate Adaptation Operating System</td>
+      <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Ecological--Monitoring-purple" alt="Application" height="20"></td>
+      <td style="white-space: nowrap;"><a href="https://doi.org/10.1145/3770855.3818654">Paper</a><br><a href="https://chaoyue0307.github.io/PCA-OS/">Project</a></td>
+    </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/arXiv-555555" alt="arXiv" style=" display: inline-block; vertical-align: middle;"><img src="https://img.shields.io/badge/2025.11-red" alt="Time" style=" display: inline-block; vertical-align: middle; margin-left: -3px;"> <a href="https://github.com/be-chen/REMSA"><img src="https://img.shields.io/github/stars/be-chen/REMSA.svg?style=social&label=Star" alt="Star" style=" display: inline-block; vertical-align: middle;"></a><br>REMSA: An LLM Agent for Foundation Model Selection in Remote Sensing</td>
       <td style="white-space: nowrap;"><img src="https://img.shields.io/badge/Ecological--Monitoring-purple" alt="Application" height="20"></td>
